@@ -6,4 +6,4 @@ I am affiliated to the [Data Science Knowledge Center](https://www.novasbe.unl.p
 
 ----
 
-If you are interested in data science you might find my repo [The Data Scientist Compendium](https://github.com/bforbesc/the-data-scientist-compendium) useful for your day-to-day tasks and learning. Feel free to fork it and contribute to it!
+If you are interested in data science you might find my repo [The Data Scientist Compendium](https://github.com/bforbesc/the-data-scientist-compendium) useful for your day-to-day tasks and ongoing learning. Feel free to fork it and contribute to it!
