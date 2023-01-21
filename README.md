@@ -8,7 +8,7 @@
 
 📃 If you are interested in data science you might find my repo [The Data Scientist Compendium](https://github.com/bforbesc/the-data-scientist-compendium) useful for your day-to-day tasks and ongoing learning. Feel free to fork it and contribute to it!
 
-🌐 I have also created a [clustering cross-sectional data web app](https://clustering-cross-sectional.herokuapp.com/), which allows you to import your data and apply an unsupervised machine learning algorithm to find and visualize your clusters, which you might find interesting. [The repository](https://github.com/bforbesc/clustering-web-app) is publicly available for you to play with.
+🌐 I have also created a [clustering cross-sectional data web app](https://bforbesc-clustering-web-app-ml-web-app-ee5tk5.streamlit.app), which allows you to import your data and apply an unsupervised machine learning algorithm to find and visualize your clusters, which you might find interesting. [The repository](https://github.com/bforbesc/clustering-web-app) is publicly available for you to play with.
 
 <br>
 
