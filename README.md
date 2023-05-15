@@ -1,4 +1,4 @@
-👨🏿‍💻 I am an Applied Economist (i.e. Data Scientist) working on natural experiments with digital platform data (Airbnb and Spotify), using traditional and machine learning methods. I am interested in computer science and technology at large.
+👨🏿‍💻 I am an Applied Economist (i.e. Data Scientist) working on natural experiments with digital platform data (Airbnb and Spotify), using traditional and machine learning methods. I am also interested in computer science, artificial intelligence and technology at large.
 
 👨🏿‍🏫 I am an Invited Teaching Assistant for Data Science graduate courses [(Master’s in Business Analytics)](https://www.novasbe.unl.pt/en/programs/masters/business-analytics/program) at Nova SBE.
 
