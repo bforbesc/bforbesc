@@ -1,6 +1,7 @@
 I am a PhD candidate (finishing) in Economics and an experienced data scientist. My expertise includes both causal and predictive analysis, utilizing a range of traditional and machine learning methods to extract insights from both small and large datasets. 
 
 My research focuses on natural experiments with digital platform data from platforms such as Spotify and Airbnb, employing both traditional and machine learning techniques. Specifically, I have conducted studies on the impact of short-term rentals on housing supply, the effects of the pandemic on the Airbnb market, and the relationship between Spotify's viral chart and top chart performance.
+
 As an Invited Teaching Assistant at Nova SBE, I have taught a diverse array of graduate and undergraduate courses on data science topics, encompassing Machine Learning, Big Data Analysis, Advanced Data Analysis, Advanced Programming for Data Science, Statistics for Business & Economics, and more.
 
 In addition to my academic pursuits, I possess professional experience in data analysis and project management across various industries, including healthcare, education, hospitality, energy, and transportation. 
