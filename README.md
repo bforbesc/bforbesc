@@ -1,14 +1,18 @@
-👨🏿‍💻 I am an Applied Economist (i.e. Data Scientist) working on natural experiments with digital platform data (Airbnb and Spotify), using traditional and machine learning methods. I am also interested in computer science, artificial intelligence and technology at large.
+I am a PhD candidate (finishing) in Economics and an experienced data scientist. My expertise includes both causal and predictive analysis, utilizing a range of traditional and machine learning methods to extract insights from both small and large datasets. 
 
-👨🏿‍🏫 I am an Invited Teaching Assistant for Data Science graduate courses [(Master’s in Business Analytics)](https://www.novasbe.unl.pt/en/programs/masters/business-analytics/program) at Nova SBE.
+My research focuses on natural experiments with digital platform data from platforms such as Spotify and Airbnb, employing both traditional and machine learning techniques. Specifically, I have conducted studies on the impact of short-term rentals on housing supply, the effects of the pandemic on the Airbnb market, and the relationship between Spotify's viral chart and top chart performance.
+As an Invited Teaching Assistant at Nova SBE, I have taught a diverse array of graduate and undergraduate courses on data science topics, encompassing Machine Learning, Big Data Analysis, Advanced Data Analysis, Advanced Programming for Data Science, Statistics for Business & Economics, and more.
 
-🏢 I am affiliated to the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/people).
+In addition to my academic pursuits, I possess professional experience in data analysis and project management across various industries, including healthcare, education, hospitality, energy, and transportation. 
+Overall, my combined background in both industry and academia equips me with the necessary skills and knowledge to assist organizations in making informed decisions and extracting insights from data, regardless of its complexity or size.
 
 ----
 
 📃 If you are interested in data science you might find my repo [The Data Scientist Compendium](https://github.com/bforbesc/the-data-scientist-compendium) useful for your day-to-day tasks and ongoing learning.
 
 🌐 I have also built a [clustering cross-sectional data web app](https://bforbesc-clustering-web-app-ml-web-app-ee5tk5.streamlit.app), which allows you to import your data and apply an unsupervised machine learning algorithm to find and visualize your clusters, which you might find interesting.
+
+🏢 I am affiliated to the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/people).
 
 <br>
 
