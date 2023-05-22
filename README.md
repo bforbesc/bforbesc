@@ -1,4 +1,4 @@
-I am a PhD candidate (finishing) in Economics and an experienced data scientist. My expertise includes both causal and predictive analysis, utilizing a range of traditional and machine learning methods to extract insights from both small and large datasets. 
+I am a PhD candidate (finishing) in Economics and an experienced data scientist. My expertise includes both causal and predictive analysis, utilizing a range of econometric and machine learning methods to extract insights from both small and large datasets. 
 
 My research focuses on natural experiments with digital platform data (Spotify and Airbnb), employing both traditional and machine learning techniques. Specifically, I have conducted studies on the impact of short-term rentals on housing supply, the effects of the pandemic on the Airbnb market, and the relationship between Spotify's viral chart and top chart performance.
 
