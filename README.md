@@ -1,4 +1,4 @@
-I am a Data Scientist at the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/people) where I am leveraging advanced analytics, machine learning, and experimentation to drive innovation in blockchain applications, within the scope of the Decentralize Portugal with Blockchain ([BLOCKCHAIN.PT](https://www.linkedin.com/company/blockchain-pt/?originalSubdomain=pt)) nationwide project.
+I am a Data Scientist at the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/) where I am leveraging advanced analytics, machine learning, and experimentation to drive innovation in blockchain applications, within the scope of the Decentralize Portugal with Blockchain ([BLOCKCHAIN.PT](https://www.linkedin.com/company/blockchain-pt/?originalSubdomain=pt)) nationwide project.
 I am also a PhD candidate in Economics and an Instructor at [Nova School of Business and Economics](https://www.novasbe.unl.pt/). 
 
 In addition to my academic pursuits, I possess professional experience in data analysis and project management across various industries, including healthcare, education, hospitality, energy, and transportation. 
