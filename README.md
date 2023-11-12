@@ -1,8 +1,6 @@
-I am a PhD candidate (finishing) in Economics and an experienced data scientist. My expertise includes causal and predictive analysis, utilizing a range of econometric and machine learning methods to extract insights from small and large datasets. 
+I am a Data Scientist at the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/people) where I am leveraging advanced analytics, machine learning, and experimentation to drive innovation in blockchain applications, within the scope of the Decentralize Portugal with Blockchain (BLOCKCHAIN.PT) nationwide project.
+I am also a PhD candidate in Economics and an Instructor at [Nova School of Business and Economics](https://www.novasbe.unl.pt/). I have conducted studies on the impact of short-term rentals on housing supply, and on building counterfactuals with machine learning. I am teaching Computer Programming to bachelor’s students and Business Analytics to executives.
 
-My research focuses on natural experiments with digital platform data (Spotify and Airbnb), employing both traditional and machine learning techniques. Specifically, I have conducted studies on the impact of short-term rentals on housing supply, the effects of the pandemic on the Airbnb market, and the relationship between Spotify's viral chart and top chart performance.
-
-As an Invited Teaching Assistant at Nova SBE, I have taught a diverse array of graduate and undergraduate courses on data science topics, encompassing Machine Learning, Big Data Analysis, Advanced Data Analysis, Advanced Programming for Data Science, Statistics for Business & Economics, and more.
 
 In addition to my academic pursuits, I possess professional experience in data analysis and project management across various industries, including healthcare, education, hospitality, energy, and transportation. 
 Overall, my combined background in both industry and academia equips me with the necessary skills and knowledge to assist organizations in making informed decisions and extracting insights from data, regardless of its complexity or size.
@@ -13,7 +11,7 @@ Overall, my combined background in both industry and academia equips me with the
 
 🌐 I have also built a [clustering cross-sectional data web app](https://bforbesc-clustering-web-app-ml-web-app-ee5tk5.streamlit.app), which allows you to import your data and apply an unsupervised machine learning algorithm to find and visualize your clusters, which you might find interesting.
 
-🏢 I am affiliated with the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/people).
+🏢 I am affiliated with the 
 
 <br>
 
