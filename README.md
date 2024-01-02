@@ -1,7 +1,4 @@
-I am a Data Scientist at the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/) I am also a PhD candidate in Economics and an Instructor at [Nova School of Business and Economics](https://www.novasbe.unl.pt/). 
-
-In addition to my academic pursuits, I possess professional experience in data analysis and project management across various industries, including healthcare, education, hospitality, energy, and transportation. 
-Overall, my combined background in both industry and academia equips me with the necessary skills and knowledge to assist organizations in making informed decisions and extracting insights from data, regardless of its complexity or size.
+I am a Data Scientist at the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/). I am also a PhD candidate in Economics and an Instructor at [Nova School of Business and Economics](https://www.novasbe.unl.pt/). 
 
 ----
 
