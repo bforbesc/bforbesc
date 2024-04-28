@@ -1,4 +1,4 @@
-I am a Data Scientist at the [Data Science Knowledge Center](https://www.novasbe.unl.pt/en/data-science/). I am also a PhD candidate in Economics and an Instructor at [Nova School of Business and Economics](https://www.novasbe.unl.pt/). 
+I'm Bernardo, a Data Scientist trained as an Economist, passionate about teaching and all things data. I am currently working on blockchain and I’m also an AI enthusiast.
 
 ----
 
