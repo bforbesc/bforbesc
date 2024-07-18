@@ -1,4 +1,4 @@
-I'm Bernardo, a Data Scientist trained as an Economist, passionate about teaching and all things data. I am currently working on blockchain and I’m also an AI enthusiast.
+I'm Bernardo, a Data Scientist trained as an Economist, passionate about teaching and all things data science. I am currently working on data and blockchain.
 
 ----
 
