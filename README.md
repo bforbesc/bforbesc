@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bernardo
+# 👋 Hi, I'm Bernardo
 
 I'm a Data Scientist and a Professor of data science courses at [Nova School of Business and Economics](https://www.novasbe.unl.pt/pt/).
 
