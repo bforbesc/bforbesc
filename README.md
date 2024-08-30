@@ -8,7 +8,7 @@ I'm a Data Scientist and a Professor of data science courses at [Nova School of 
 🌐 I also developed a [clustering cross-sectional data web app](https://bforbesc-clustering-web-app-ml-web-app-ee5tk5.streamlit.app) that lets you import your data and apply an unsupervised machine learning algorithm to discover and visualize clusters.
 
 
-I’m always open to discussions, collaborations, and learning opportunities. Let's connect and explore the world of data together! 
+I’m always open to discussions, collaborations, and learning opportunities. Let's connect and explore the world of data and AI together! 
 
 ### Get in touch!
 
