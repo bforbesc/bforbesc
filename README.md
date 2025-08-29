@@ -13,7 +13,7 @@ I write about Data and AI on LinkedIn. You can find the collection of my article
 ---
 
 ### 🛠️ Projects
-Here are some of the projects I’ve built. This section will grow over time as I continue to share my work.
+I am Pythonist working with big data and machine learning. Here are some of the projects I’ve built. This section will grow over time as I continue to share my work.
 
 | Project | Description | Tech Stack |
 |---------|-------------|------|
