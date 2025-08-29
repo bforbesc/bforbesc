@@ -24,5 +24,4 @@ Here are some of the projects I’ve built. This section will grow over time as 
 
 ### 📬 Get in touch!
 
-[![Linkedin Badge](https://img.shields.io/badge/-bernardoforbescosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardoforbescosta/)](https://www.linkedin.com/in/bernardoforbescosta/)  
-[![Gmail Badge](https://img.shields.io/badge/-bernardoforbescosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardoforbescosta@gmail.com)](mailto:bernardoforbescosta@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bernardoforbescosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardoforbescosta/)](https://www.linkedin.com/in/bernardoforbescosta/)  [![Gmail Badge](https://img.shields.io/badge/-bernardoforbescosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardoforbescosta@gmail.com)](mailto:bernardoforbescosta@gmail.com)
