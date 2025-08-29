@@ -17,7 +17,7 @@ I am Pythonist working with big data and machine learning. Here are some of the 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------|
-| [Your-Data-Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) | An interactive app that allows users to upload and analyse their data files using natural language and AI-powered insights—offering dataset metadata, data cleaning suggestions, visualizations, and domain-specific analyses (e-commerce, healthcare, etc.). | `OpenAI API`, `Streamlit`, `Plotly` |
+| [Your-Data-Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) | An interactive app that allows users to upload and analyse their data using natural language and AI-powered insights—offering dataset metadata, data cleaning suggestions, visualizations, and domain-specific analyses (e-commerce, healthcare, etc.). | `OpenAI API`, `Streamlit`, `Plotly` |
 | [AI-Assistant-Competition](https://github.com/bforbesc/AI-Assistant-Competition) | A learning platform where student-built AI agents compete in negotiation challenges, with leaderboard, analytics, and training workflows. | `Microsoft AutoGen`, `Streamlit`, `SQL`, `Flask` |
 | [Clustering Web App](https://github.com/bforbesc/clustering-web-app) | A web app to compute and visualize clusters from cross-sectional data using K-Means and t-SNE. | `Streamlit`, `scikit-learn`, `Plotly` |
 
