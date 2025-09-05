@@ -17,9 +17,9 @@ I am Pythonist working with big data and machine learning. Here are some of the 
 
 | Project | Description | Tech Stack |
 |---------|-------------|------|
-| [Your-Data-Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) | An AI-powered data analysis app that instantly transforms your datasets into insights through automated cleaning, smart visualizations, and natural language queries. Upload any CSV/Excel file and get domain-specific recommendations tailored to your data's context. | `OpenAI API`, `Streamlit`, `Plotly` |
+| [🤼 Your Data Wrestler](https://github.com/bforbesc/Your-Data-Wrestler) | An AI-powered data analysis app that instantly transforms your datasets into insights through automated cleaning, smart visualizations, and natural language queries. Upload any CSV/Excel file and get domain-specific recommendations tailored to your data's context. | `OpenAI API`, `Streamlit`, `Plotly` |
 | [AI-Assistant-Competition](https://github.com/bforbesc/AI-Assistant-Competition) | A learning platform where student-built AI agents compete in negotiation challenges, with leaderboard, analytics, and training workflows. | `Microsoft AutoGen`, `Streamlit`, `SQL`, `Flask` |
-| [Clustering Web App](https://github.com/bforbesc/clustering-web-app) | A web app to compute and visualize clusters from cross-sectional data using K-Means and t-SNE. | `Streamlit`, `scikit-learn`, `Plotly` |
+| [✂️ Clustering Cross-sectional Data](https://github.com/bforbesc/clustering-web-app) | A web app to compute and visualize clusters from cross-sectional data using K-Means and t-SNE. | `Streamlit`, `scikit-learn`, `Plotly` |
 
 ---
 
