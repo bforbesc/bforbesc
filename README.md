@@ -4,8 +4,6 @@ I’m a data scientist, AI/ Ml engineer, and professor, working on and teaching 
 
 Over the past few years, I’ve taught both university students and executives, helping them stay close to the tools and the technology.
 
----
-
 ### 📚 Writing
 
 I write about data and AI in both technical and public contexts.
@@ -16,5 +14,4 @@ I write about data and AI in both technical and public contexts.
 
 ### 📬 Get in touch
 
-[![LinkedIn Badge](https://img.shields.io/badge/-bernardoforbescosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardoforbescosta/)](https://www.linkedin.com/in/bernardoforbescosta/)  
-[![Gmail Badge](https://img.shields.io/badge/-bernardoforbescosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardoforbescosta@gmail.com)](mailto:bernardoforbescosta@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-bernardoforbescosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardoforbescosta@gmail.com)](mailto:bernardoforbescosta@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-bernardoforbescosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardoforbescosta/)](https://www.linkedin.com/in/bernardoforbescosta/)  
