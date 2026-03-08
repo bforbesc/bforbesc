@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Forbes
 
-I’m a data scientist, AI/ ML engineer, and professor, working on and teaching data and Artificial Intelligence.
+I’m a data scientist, AI/ ML engineer, and professor, working on and teaching about data and Artificial Intelligence.
 
 Over the past few years, I’ve taught both university students and executives, helping them stay close to the tools and the technology.
 
