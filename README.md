@@ -8,7 +8,7 @@ I have also taught hundreds of university students and executives, helping them 
 
 ### 🧑🏿‍💻 Coding
 
-Even though my professional work lives in private repos, most of my personal projects are public and available here.
+Even though my professional work lives in private repos, most of my personal projects are public and available [here](https://github.com/bforbesc?tab=repositories).
 
 Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia).
 
