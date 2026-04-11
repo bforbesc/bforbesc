@@ -1,13 +1,16 @@
 # 👋 Hi, I'm Forbes
 
 I’m a data scientist, AI/ ML engineer, and professor, working on and teaching about data and Artificial Intelligence.
+
 Over the past years, I’ve leveraged AI to solve problems humans have a hard time tackling on their own.
+
 I have also taught hundreds of university students and executives, helping them stay close to the tools and the technology.
 
 ### 🧑🏿‍💻 Coding
 
 Even though my professional work lives in private repos, most of my personal projects are public and available here.
-Feel free to check out - and steal - my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia).
+
+Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia).
 
 ### 📚 Writing
 
