@@ -18,6 +18,18 @@ I write about data and AI in both technical and public contexts.
 - **Opinion articles:** [CNN Portugal](https://cnnportugal.iol.pt/perfil/bernardo-forbes-costa/694404dcd34e3caad84c8a9f)
 - **Technical articles:** [Data & AI with Forbes](https://github.com/bforbesc/Data-AI-with-Forbes)
 
+
+### 🧐 What I’m Exploring
+
+I use GitHub Stars as a curated reading and tooling library. Here are the main topics I track:
+
+- [Agents & MCP](https://github.com/stars/bforbesc/lists/agents-mcp) — agent frameworks, tooling, and MCP projects
+- [LLM Apps & RAG](https://github.com/stars/bforbesc/lists/llm-apps-rag) — retrieval, context systems, and GenAI apps
+- [ML Learning & Research](https://github.com/stars/bforbesc/lists/ml-learning-research) — books, notebooks, and research repos
+- [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) — cloud architecture, tools, and serverless examples
+- [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) — analytics tools and data apps
+- [Dev Tools & References](https://github.com/stars/bforbesc/lists/dev-tools-references) — utilities, templates, and references
+
 ---
 
 ### 📬 Get in touch
