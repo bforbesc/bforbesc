@@ -24,7 +24,7 @@ I write about data and AI in both technical and public contexts.
 I use GitHub Stars as a curated reading and tooling library. Here are the main topics I track:
 
 - [Agents & MCP](https://github.com/stars/bforbesc/lists/agents-mcp) — agent frameworks, tooling, and MCP projects
-- [LLM Apps & RAG](https://github.com/stars/bforbesc/lists/llm-apps-rag) — retrieval, context systems, and GenAI apps
+- [LLM Apps](https://github.com/stars/bforbesc/lists/llm-apps) — retrieval, context systems, and GenAI apps
 - [ML Learning & Research](https://github.com/stars/bforbesc/lists/ml-learning-research) — books, notebooks, and research repos
 - [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) — cloud architecture, tools, and serverless examples
 - [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) — analytics tools and data apps
