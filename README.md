@@ -25,7 +25,7 @@ I use GitHub Stars as a curated reading and tooling library. Here are the main t
 
 - [Agents & MCP](https://github.com/stars/bforbesc/lists/agents-mcp) — agent frameworks, tooling, and MCP projects
 - [LLM Apps](https://github.com/stars/bforbesc/lists/llm-apps) — retrieval, context systems, and GenAI apps
-- [ML Learning & Research](https://github.com/stars/bforbesc/lists/ml-learning-research) — books, notebooks, and research repos
+- [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) — books, notebooks, and research repos
 - [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) — cloud architecture, tools, and serverless examples
 - [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) — analytics tools and data apps
 - [Dev Tools & References](https://github.com/stars/bforbesc/lists/dev-tools-references) — utilities, templates, and references
