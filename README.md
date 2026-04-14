@@ -10,7 +10,9 @@ I have also taught hundreds of university students and executives, helping them 
 
 Even though my professional work lives in private repos, most of my personal projects are public and available [here](https://github.com/bforbesc?tab=repositories).
 
-Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia).
+Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia)
+
+Or check my agents' HQ: [🕵🏿‍♂️ FBI](https://github.com/bforbesc/FBI)
 
 ### 📚 Writing
 
@@ -18,7 +20,7 @@ I write about data and AI in both technical and public contexts.
 - **Opinion articles:** [CNN Portugal](https://cnnportugal.iol.pt/perfil/bernardo-forbes-costa/694404dcd34e3caad84c8a9f)
 - **Technical articles:** [Data & AI with Forbes](https://github.com/bforbesc/Data-AI-with-Forbes)
 
-
+🕵🏿‍♂️
 ### 🧐 What I’m Exploring
 
 I use GitHub Stars as a curated reading and tooling library. Here are the main topics I track:
