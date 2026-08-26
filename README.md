@@ -18,7 +18,7 @@ Or check my agents' HQ: [🕵🏿‍♂️ FBI](https://github.com/bforbesc/FBI)
 
 I write about data and AI in both technical and public contexts.
 - **Opinion articles:** [CNN Portugal](https://cnnportugal.iol.pt/perfil/bernardo-forbes-costa/694404dcd34e3caad84c8a9f)
-- **Technical articles:** [Data & AI with Forbes](https://github.com/bforbesc/Data-AI-with-Forbes)
+- **Technical articles:** [LinkedIn articles](https://www.linkedin.com/in/bernardoforbescosta/recent-activity/articles/)
 
 ### 🧐 What I’m Exploring
 
