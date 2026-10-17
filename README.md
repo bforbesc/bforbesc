@@ -22,7 +22,7 @@ I write about data and AI in both technical and public contexts.
 - **Opinion articles:** [CNN Portugal](https://cnnportugal.iol.pt/perfil/bernardo-forbes-costa/694404dcd34e3caad84c8a9f)
 - **Technical articles:** [LinkedIn articles](https://www.linkedin.com/in/bernardoforbescosta/recent-activity/articles/)
 
-### What I’m Exploring
+### ⭐ What I’m Exploring
 
 Browse my [starred resources](https://github.com/bforbesc?tab=stars) by topic.
 
