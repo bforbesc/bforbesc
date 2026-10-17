@@ -24,19 +24,15 @@ I write about data and AI in both technical and public contexts.
 
 ### What I’m Exploring
 
-My [GitHub Stars](https://github.com/bforbesc?tab=stars) are a reading and tooling library. I keep the categories broad so saving something useful does not require deciding whether it is an app, agent, framework, or developer tool.
+Browse my [starred resources](https://github.com/bforbesc?tab=stars) by topic.
 
-| Category | Use it when… |
+| Category | What you'll find |
 |---|---|
-| [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) | I want to study a topic: books, courses, tutorials, papers, or research experiments. |
-| [Tools & Development](https://github.com/stars/bforbesc/lists/tools-development) | I want software to build or run something: coding assistants, skills, agents, MCP, LLM apps and services, editors, utilities, or templates. |
-| [Audio & Creative AI](https://github.com/stars/bforbesc/lists/audio-creative-ai) | I want to create or edit voice, music, speech, or writing. |
-| [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) | I want a cloud-specific deployment example, infrastructure tool, platform, or emulator. |
-| [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) | I want to explore, publish, visualize, or move data. |
-
-**Where should a new star go?** Choose why you would return to it. A tutorial goes in **Learning & Research**. A tool for coding or building AI software goes in **Tools & Development**, regardless of how it describes itself. Use the creative, cloud, or data lists when that specific purpose is the reason you saved it.
-
-**Still unsure? Put it in Tools & Development.** You can move it later when you have a use for it; there is no need to solve the taxonomy when you click Star.
+| [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) | Books, courses, tutorials, papers, and research experiments. |
+| [Tools & Development](https://github.com/stars/bforbesc/lists/tools-development) | Coding assistants, agents, MCP, AI apps and services, developer utilities, and templates. |
+| [Audio & Creative AI](https://github.com/stars/bforbesc/lists/audio-creative-ai) | Tools for voice, music, speech, and writing. |
+| [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) | Cloud platforms, deployment examples, infrastructure, and emulators. |
+| [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) | Tools for exploring, publishing, visualizing, and working with data. |
 
 ---
 
