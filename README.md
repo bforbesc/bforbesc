@@ -22,24 +22,21 @@ I write about data and AI in both technical and public contexts.
 - **Opinion articles:** [CNN Portugal](https://cnnportugal.iol.pt/perfil/bernardo-forbes-costa/694404dcd34e3caad84c8a9f)
 - **Technical articles:** [LinkedIn articles](https://www.linkedin.com/in/bernardoforbescosta/recent-activity/articles/)
 
-### 🧐 What I’m Exploring
+### What I’m Exploring
 
-My [GitHub Stars](https://github.com/bforbesc?tab=stars) are a reading and tooling library. Each non-company repository has one primary home, based on **why I would return to it**.
+My [GitHub Stars](https://github.com/bforbesc?tab=stars) are a reading and tooling library. I keep the categories broad so saving something useful does not require deciding whether it is an app, agent, framework, or developer tool.
 
-| If I am looking for… | The list |
+| Category | Use it when… |
 |---|---|
-| 📚 A book, course, tutorial, paper, or research experiment | [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) |
-| 🧑‍💻 A coding assistant, code-oriented skill, or development workflow | [AI Coding & Workflows](https://github.com/stars/bforbesc/lists/ai-coding-workflows) |
-| 🤖 A general agent framework, assistant, MCP server, or integration | [Agents & MCP](https://github.com/stars/bforbesc/lists/agents-mcp) |
-| 💬 A retrieval/document app, model gateway, or LLM operations tool | [LLM Apps](https://github.com/stars/bforbesc/lists/llm-apps) |
-| 🎙️ A voice, music, speech, or writing tool | [Audio & Creative AI](https://github.com/stars/bforbesc/lists/audio-creative-ai) |
-| ☁️ A cloud platform, deployment sample, infrastructure tool, or emulator | [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) |
-| 📊 A tool for exploring, publishing, visualizing, or moving data | [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) |
-| 🧰 An editor, browser, project template, diagram tool, or general reference | [Dev Tools & References](https://github.com/stars/bforbesc/lists/dev-tools-references) |
+| [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) | I want to study a topic: books, courses, tutorials, papers, or research experiments. |
+| [Tools & Development](https://github.com/stars/bforbesc/lists/tools-development) | I want software to build or run something: coding assistants, skills, agents, MCP, LLM apps and services, editors, utilities, or templates. |
+| [Audio & Creative AI](https://github.com/stars/bforbesc/lists/audio-creative-ai) | I want to create or edit voice, music, speech, or writing. |
+| [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) | I want a cloud-specific deployment example, infrastructure tool, platform, or emulator. |
+| [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) | I want to explore, publish, visualize, or move data. |
 
-**Where should a new star go?** Pick its main purpose, rather than every technology it mentions. A course about agents goes in **Learning & Research**; a coding agent goes in **AI Coding & Workflows**; a general agent framework goes in **Agents & MCP**. A cloud-specific deployment example goes in **AWS & Cloud**, even if it uses agents. A finished data-analysis tool goes in **Data & Analytics**, even if it uses an LLM.
+**Where should a new star go?** Choose why you would return to it. A tutorial goes in **Learning & Research**. A tool for coding or building AI software goes in **Tools & Development**, regardless of how it describes itself. Use the creative, cloud, or data lists when that specific purpose is the reason you saved it.
 
-Company repositories are kept separate and are excluded from this public category guide.
+**Still unsure? Put it in Tools & Development.** You can move it later when you have a use for it; there is no need to solve the taxonomy when you click Star.
 
 ---
 
