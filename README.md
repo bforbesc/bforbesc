@@ -12,8 +12,6 @@ Even though my professional work lives in private repos, most of my personal pro
 
 Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia)
 
-Or check my agents' HQ: [🕵🏿‍♂️ FBI](https://github.com/bforbesc/FBI)
-
 ### 📚 Writing
 
 I write about data and AI in both technical and public contexts.
