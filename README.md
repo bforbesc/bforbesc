@@ -14,7 +14,7 @@ Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://gi
 
 ### 🎓 Teaching & learning
 
-[**📚 Data & AI with Forbes**](https://github.com/bforbesc/Data-AI-with-Forbes) is my learning hub: courses, beginner notebooks, historical project case studies, and starter templates. Explore data transformation, visualization, machine learning, generative AI, agents, and building a small web app—concepts first, with the tools explained along the way.
+[**📚 Data & AI with Forbes**](https://github.com/bforbesc/Data-AI-with-Forbes) is my learning hub: courses, beginner notebooks, historical project case studies, and starter templates.
 
 ### 📚 Writing
 
