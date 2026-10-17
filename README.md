@@ -38,4 +38,4 @@ Browse my [starred resources](https://github.com/bforbesc?tab=stars) by topic.
 
 ### 📬 Get in touch
 
-[![Gmail Badge](https://img.shields.io/badge/-bernardoforbescosta@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bernardoforbescosta@gmail.com)](mailto:bernardoforbescosta@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-bernardoforbescosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernardoforbescosta/)](https://www.linkedin.com/in/bernardoforbescosta/)  
+[![Website](assets/contact-website.svg)](https://bernardoforbescosta.pt/) [![LinkedIn](assets/contact-linkedin.svg)](https://www.linkedin.com/in/bernardoforbescosta/)
