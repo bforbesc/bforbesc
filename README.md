@@ -39,7 +39,7 @@ My [GitHub Stars](https://github.com/bforbesc?tab=stars) are a reading and tooli
 
 **Where should a new star go?** Pick its main purpose, rather than every technology it mentions. A course about agents goes in **Learning & Research**; a coding agent goes in **AI Coding & Workflows**; a general agent framework goes in **Agents & MCP**. A cloud-specific deployment example goes in **AWS & Cloud**, even if it uses agents. A finished data-analysis tool goes in **Data & Analytics**, even if it uses an LLM.
 
-Company repositories and their existing memberships in [🌀 Loka](https://github.com/stars/bforbesc/lists/loka) are kept separate and unchanged; they are the exception to the one-home cleanup.
+Company repositories are kept separate and are excluded from this public category guide.
 
 ---
 
