@@ -12,6 +12,10 @@ Even though my professional work lives in private repos, most of my personal pro
 
 Feel free to check out (and steal) my agentic setup: [🤖 Claudia's](https://github.com/bforbesc/claudia)
 
+### 🎓 Teaching & learning
+
+[**📚 Data & AI with Forbes**](https://github.com/bforbesc/Data-AI-with-Forbes) is my learning hub: courses, beginner notebooks, historical project case studies, and starter templates. Explore data transformation, visualization, machine learning, generative AI, agents, and building a small web app—concepts first, with the tools explained along the way.
+
 ### 📚 Writing
 
 I write about data and AI in both technical and public contexts.
@@ -20,14 +24,22 @@ I write about data and AI in both technical and public contexts.
 
 ### 🧐 What I’m Exploring
 
-I use GitHub Stars as a curated reading and tooling library. Here are the main topics I track:
+My [GitHub Stars](https://github.com/bforbesc?tab=stars) are a reading and tooling library. Each non-company repository has one primary home, based on **why I would return to it**.
 
-- [Agents & MCP](https://github.com/stars/bforbesc/lists/agents-mcp) — agent frameworks, tooling, and MCP projects
-- [LLM Apps](https://github.com/stars/bforbesc/lists/llm-apps) — retrieval, context systems, and GenAI apps
-- [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) — books, notebooks, and research repos
-- [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) — cloud architecture, tools, and serverless examples
-- [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) — analytics tools and data apps
-- [Dev Tools & References](https://github.com/stars/bforbesc/lists/dev-tools-references) — utilities, templates, and references
+| If I am looking for… | The list |
+|---|---|
+| 📚 A book, course, tutorial, paper, or research experiment | [Learning & Research](https://github.com/stars/bforbesc/lists/learning-research) |
+| 🧑‍💻 A coding assistant, code-oriented skill, or development workflow | [AI Coding & Workflows](https://github.com/stars/bforbesc/lists/ai-coding-workflows) |
+| 🤖 A general agent framework, assistant, MCP server, or integration | [Agents & MCP](https://github.com/stars/bforbesc/lists/agents-mcp) |
+| 💬 A retrieval/document app, model gateway, or LLM operations tool | [LLM Apps](https://github.com/stars/bforbesc/lists/llm-apps) |
+| 🎙️ A voice, music, speech, or writing tool | [Audio & Creative AI](https://github.com/stars/bforbesc/lists/audio-creative-ai) |
+| ☁️ A cloud platform, deployment sample, infrastructure tool, or emulator | [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) |
+| 📊 A tool for exploring, publishing, visualizing, or moving data | [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) |
+| 🧰 An editor, browser, project template, diagram tool, or general reference | [Dev Tools & References](https://github.com/stars/bforbesc/lists/dev-tools-references) |
+
+**Where should a new star go?** Pick its main purpose, rather than every technology it mentions. A course about agents goes in **Learning & Research**; a coding agent goes in **AI Coding & Workflows**; a general agent framework goes in **Agents & MCP**. A cloud-specific deployment example goes in **AWS & Cloud**, even if it uses agents. A finished data-analysis tool goes in **Data & Analytics**, even if it uses an LLM.
+
+Company repositories and their existing memberships in [🌀 Loka](https://github.com/stars/bforbesc/lists/loka) are kept separate and unchanged; they are the exception to the one-home cleanup.
 
 ---
 
