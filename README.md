@@ -33,6 +33,7 @@ Browse my [starred resources](https://github.com/bforbesc?tab=stars) by topic.
 | [Audio & Creative AI](https://github.com/stars/bforbesc/lists/audio-creative-ai) | Tools for voice, music, speech, and writing. |
 | [AWS & Cloud](https://github.com/stars/bforbesc/lists/aws-cloud) | Cloud platforms, deployment examples, infrastructure, and emulators. |
 | [Data & Analytics](https://github.com/stars/bforbesc/lists/data-analytics) | Tools for exploring, publishing, visualizing, and working with data. |
+| [Anthropic](https://github.com/stars/bforbesc/lists/anthropic) | All things Claude. |
 
 ---
 
